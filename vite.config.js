@@ -7,5 +7,7 @@ export default defineConfig({
     react(),
     tailwindcss(), // Add this here
   ],
-  base: '/', 
+    base: '/abdurrehmanabbasi.github.io/',  // IMPORTANT
+
+  // base: '/', 
 })
